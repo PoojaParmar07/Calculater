@@ -65,14 +65,4 @@ body{
 .btn:hover{
 	border: 2px solid gray;
 }
-
-@media (min-width : 600px) and (max-width : 1200px) {
-	body{
-		width: 100%;
-	}
-	.container{
-		width: 290px;
-	}
-}
-
   
